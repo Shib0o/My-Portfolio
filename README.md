@@ -1,5 +1,5 @@
 # My-Portfolio
-# How to reach me radzi001814@gmail.com
+How to reach me radzi001814@gmail.com
 
 /////////////////////////////////////////////////////////////////////////
 # Shibo Portfolio Starter
