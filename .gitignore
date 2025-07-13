@@ -420,3 +420,4 @@ FodyWeavers.xsd
 # My own git ingnore
 
 README.md
+.gitignore
